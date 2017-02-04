@@ -1,7 +1,7 @@
 %!PS-Adobe-3.0
 %%Creator: gEDA gschem 1.8.1-20121123-13-g875406c
-%%CreationDate: Fri Feb  3 12:04:51 2017
-%%Title: /home/santiago/GEDA-generador-de-onda-controlado-por-tension/generador-de-onda-controlado-por-tension-page1.sch
+%%CreationDate: Sat Feb  4 11:32:41 2017
+%%Title: /home/santiago/generador-de-funciones-controlado-por-tension/GEDA-generador-de-funciones-controlado-por-tension/generador-de-onda-controlado-por-tension-page1.sch
 %%Author: (null)
 %%BoundingBox: 0 0 419 595
 %%Orientation: Landscape
@@ -438,9 +438,9 @@
 /gEDAFont ISOLatin1Extended /Helvetica RE
 2 setlinecap
 0.072000 0.072000 scale
-4355 375 translate 90 rotate
+4377 375 translate 90 rotate
 0.491325 0.491325 scale
--11300 -62800 translate
+-11300 -62710 translate
 gsave
 15100 65600 15100 66400 10 line
 15100 65600 15700 66000 10 line
@@ -592,7 +592,6 @@ grestore
 gsave
 false false false true 161.777776 [(4) ] 0 17350 66100 144.444443 text
 grestore
-60 60 16770 65570 fbox
 newpath
 16800 66000
 25
@@ -865,11 +864,10 @@ gsave
 20380 66110 20420 66110 10 line
 grestore
 gsave
-14000 64700 14000 64900 10 line
-13900 64700 14100 64700 10 line
-13955 64650 14045 64650 10 line
-13980 64610 14020 64610 10 line
-60 60 13970 64870 fbox
+14000 64600 14000 64800 10 line
+13900 64600 14100 64600 10 line
+13955 64550 14045 64550 10 line
+13980 64510 14020 64510 10 line
 grestore
 22300 66200 22500 66200 10 line
 gsave
@@ -984,7 +982,6 @@ newpath
 25
 0 360 arc
 fill
-60 60 13970 64770 fbox
 grestore
 gsave
 false true false false 202.222224 [(Q2) ] 0 14100 65200 180.555557 text
@@ -1222,11 +1219,10 @@ grestore
 19300 64400 18400 64400 10 line
 18400 64000 18400 64700 10 line
 gsave
-19300 62900 19300 63100 10 line
-19200 62900 19400 62900 10 line
-19255 62850 19345 62850 10 line
-19280 62810 19320 62810 10 line
-60 60 19270 63070 fbox
+19300 62800 19300 63000 10 line
+19200 62800 19400 62800 10 line
+19255 62750 19345 62750 10 line
+19280 62710 19320 62710 10 line
 grestore
 gsave
 17600 63600 17600 64400 10 line
@@ -1292,7 +1288,6 @@ newpath
 25
 0 360 arc
 fill
-60 60 19270 62970 fbox
 grestore
 gsave
 false true false false 202.222224 [(Q3) ] 0 19400 63400 180.555557 text
@@ -1409,6 +1404,24 @@ grestore
 gsave
 false false false false 202.222224 [(CC-BY-SA Santiago Calvo Ramos) (<santiagocalvoramos@gmail.com>) ] 0 12400 63800 180.555557 text
 grestore
+gsave
+16800 65400 16800 65600 10 line
+16700 65400 16900 65400 10 line
+16755 65350 16845 65350 10 line
+16780 65310 16820 65310 10 line
+grestore
+gsave
+false false false false 202.222224 [(R1=R4=2R3=2R2) ] 0 12400 68000 180.555557 text
+grestore
+gsave
+false false false false 202.222224 [(R7=R10=2R9=2R8) ] 0 12400 67700 180.555557 text
+grestore
+gsave
+false false false false 202.222224 [(R6=R17=2R16=2R18) ] 0 12400 67400 180.555557 text
+grestore
+gsave
+false false false false 202.222224 [(R14=R13) ] 0 12400 67100 180.555557 text
+grestore
 newpath
 14900 66200
 25
@@ -1471,7 +1484,6 @@ newpath
 25
 0 360 arc
 fill
-60 60 16770 65570 fbox
 newpath
 16800 66000
 25
@@ -1618,7 +1630,6 @@ newpath
 25
 0 360 arc
 fill
-60 60 13970 64870 fbox
 60 60 18970 66770 fbox
 60 60 18970 67570 fbox
 newpath
@@ -1633,7 +1644,6 @@ newpath
 25
 0 360 arc
 fill
-60 60 13970 64770 fbox
 newpath
 23500 66000
 25
@@ -1768,7 +1778,6 @@ newpath
 25
 0 360 arc
 fill
-60 60 19270 63070 fbox
 newpath
 18400 64000
 25
@@ -1781,7 +1790,6 @@ newpath
 25
 0 360 arc
 fill
-60 60 19270 62970 fbox
 newpath
 21200 64200
 25

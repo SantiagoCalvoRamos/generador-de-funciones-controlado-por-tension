@@ -832,8 +832,6 @@ Wire Wire Line
 	7550 3550 8150 3550
 Wire Wire Line
 	8150 3550 8150 3200
-Wire Wire Line
-	5550 3100 6800 3100
 Connection ~ 5750 3100
 Connection ~ 5550 3550
 Wire Wire Line
@@ -902,4 +900,10 @@ Wire Wire Line
 	2650 2700 2300 2700
 Wire Wire Line
 	2650 3950 2250 3950
+Text Notes 7050 6800 0    60   ~ 0
+CC-BY-SA Santiago Calvo Ramos\n<santiagocalvoramos@gmail.com>
+Text Notes 7350 7500 0    60   ~ 0
+Generador de funciones
+Wire Wire Line
+	5750 3100 5550 3100
 $EndSCHEMATC
